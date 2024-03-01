@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.dnb.com/content/dam/english/image-library/Modernization/heroes/abstract/hero-our-analytics-data-point-icons-1600x400.jpg" width="80%" />
+  <img src="https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png" width="80%" />
 </p>
 
 ## 👋 About Me:
