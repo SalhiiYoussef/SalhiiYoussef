@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQFmgncWFOLIRQ/profile-displaybackgroundimage-shrink_200_800/0/1674397103778?e=2147483647&v=beta&t=JilDG6GH7F0ExzzGY1K0Pmjv-_s6gWilaMIiLxDS0Io" width="100%" />
+  <img src="https://media.licdn.com/dms/image/D5616AQFmgncWFOLIRQ/profile-displaybackgroundimage-shrink_200_800/0/1674397103778?e=2147483647&v=beta&t=JilDG6GH7F0ExzzGY1K0Pmjv-_s6gWilaMIiLxDS0Io" width="80%" />
 </p>
 
 ## 👋 About Me:
@@ -10,10 +10,10 @@
 
 ## 📚 Education
   
-- **Master's in Machine Learning for Data Science**
+- **Master2 in Machine Learning for Data Science**
   University of Paris Cité, 2023 – 2024
 
-- **Bachelor's in Data & Software Engineering**
+- **Diploma in Data & Software Engineering**
   National Institute of Statistics and Applied Economics (INSEA), 2020 – 2023
 
 ## 💼 Work Experience:
