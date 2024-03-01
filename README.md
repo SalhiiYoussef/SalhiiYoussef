@@ -20,7 +20,7 @@
 
 - **Data Engineer Intern** at `Carrefour`, Paris, France (January - Present)
 - **Big Data Engineer Intern** at `Digiwise`, Rabat, Morocco (6 months)
-- **Software Engineer Intern** at `WebHelp`, Rabat, France (2 months) 
+- **Software Engineer Intern** at `WebHelp`, Rabat, Morocco (2 months) 
 - **Backend Developer Intern** at `A2i`, Casablanca, Morocco (2 months)
 
 ## 🙌 Connect with Me:
