@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhgs.cx%2Fblog%2Fthe-benefits-of-data-engineering%2F&psig=AOvVaw2yJ5YQZt3KFzcOKhbCXN23&ust=1709392363140000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiNtKCt04QDFQAAAAAdAAAAABAE" width="70%" />
+  <img src="https://media.licdn.com/dms/image/D5616AQFmgncWFOLIRQ/profile-displaybackgroundimage-shrink_200_800/0/1674397103778?e=2147483647&v=beta&t=JilDG6GH7F0ExzzGY1K0Pmjv-_s6gWilaMIiLxDS0Io" width="70%" />
 </p>
 
 
 ## 👋 About Me:
 
 - 🚀 Hey there, I'm Youssef, a 23-year-old Data Engineer from Morocco. I thrive in the realm of data engineering / data science, driven by a fervent passion for crafting innovative solutions. Welcome to my tech space! 🌐✨
-- 💼 Currently working as a Data Engineering Intern at Carrefour Massy.
+- 💼 Currently working as a Data Engineer Intern at Carrefour Massy.
 - 🎓 I hold a [Data & Software Engineering]((https://insea.ac.ma/files/DSE_fiche_description_2022.pdf)) degree from INSEA (National Institute of Statistics and Applied Economics).
 
 
