@@ -34,7 +34,7 @@
   | **Machine Learning**        | 🧠 Supervised & Unsupervised Learning, NLP, Deep Learning|
   | **Programming Languages**  | 💻 Python, Scala, Java, Bash, R, SQL, PL/SQL             |
   | **Data Science Tools**      | 🛠️ Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Spacy, Nltk, LLM |
-  | **Data Visualization**      | 📊 PowerBI, Tableau, SuperSet                            |
+  | **Data Visualization**      | 📊 PowerBI, Tableau, SuperSet, Looker Studio                            |
   | **Web Development**         | 🌐 Django, FastAPI, Spring Boot, ASP.NET, VueJs          |
   | **Statistics**              | 📈 Time Series Analysis, PCA                             |
   | **Database Management**     | 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB, Google Cloud Storage               |
