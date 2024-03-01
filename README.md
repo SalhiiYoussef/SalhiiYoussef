@@ -30,15 +30,15 @@
   
   | Category                    | Technologies                                            |
   |-----------------------------|---------------------------------------------------------|
-  | **Big Data Technologies**   | 🚀 Spark, Airflow, Hadoop, Hive, Hafka, Impala           |
+  | **Big Data Technologies**   | 🚀 Spark, Airflow, Hadoop, Hive, Hafka, BigQuery           |
   | **Machine Learning**        | 🧠 Supervised & Unsupervised Learning, NLP, Deep Learning|
-  | **Programming Languages**  | 💻 Python, Scala, Bash, Java, R, SQL, PL/SQL             |
-  | **Data Science Tools**      | 🛠️ Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Spacy, NLTK, LLM |
+  | **Programming Languages**  | 💻 Python, Scala, Java, Bash, R, SQL, PL/SQL             |
+  | **Data Science Tools**      | 🛠️ Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Spacy, Nltk, LLM |
   | **Data Visualization**      | 📊 PowerBI, Tableau, SuperSet                            |
   | **Web Development**         | 🌐 Django, FastAPI, Spring Boot, ASP.NET, VueJs          |
   | **Statistics**              | 📈 Time Series Analysis, PCA                             |
-  | **Database Management**     | 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB               |
-  | **Cloud & Platforms**       | ☁️ Microsoft Azure, GCP                                 |
+  | **Database Management**     | 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB, Google Cloud Storage               |
+  | **Cloud & Platforms**       | ☁️ GCP, Microsoft Azure                                  |
   | **Data Engineering**        | 🛢️ Git/GitHub, ETL/ELT, Docker, Streamlit, CI/CD        |
   | **Other**                   | 🐧 Linux, Agile Scrum, Figma, Jira                       |
 
