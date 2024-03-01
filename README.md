@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/labrijisaad/labrijisaad/assets/74627083/b155c79d-da48-4be3-98a7-c40dd2a201bc" width="70%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhgs.cx%2Fblog%2Fthe-benefits-of-data-engineering%2F&psig=AOvVaw2yJ5YQZt3KFzcOKhbCXN23&ust=1709392363140000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiNtKCt04QDFQAAAAAdAAAAABAE" width="70%" />
 </p>
 
 
