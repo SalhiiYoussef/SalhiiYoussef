@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQFmgncWFOLIRQ/profile-displaybackgroundimage-shrink_200_800/0/1674397103778?e=2147483647&v=beta&t=JilDG6GH7F0ExzzGY1K0Pmjv-_s6gWilaMIiLxDS0Io" width="80%" />
+  <img src="[https://media.licdn.com/dms/image/D5616AQFmgncWFOLIRQ/profile-displaybackgroundimage-shrink_200_800/0/1674397103778?e=2147483647&v=beta&t=JilDG6GH7F0ExzzGY1K0Pmjv-_s6gWilaMIiLxDS0Io](https://www.dnb.com/content/dam/english/image-library/Modernization/heroes/abstract/hero-our-analytics-data-point-icons-1600x400.jpg)" width="80%" />
 </p>
 
 ## 👋 About Me:
