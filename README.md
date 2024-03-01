@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.gmmspl.com/wp-content/uploads/2021/10/data-analytics.png" width="80%" />
+  <img src="https://img.freepik.com/premium-photo/playful-plasticine-waves-cartoon-style-water-scene_804788-5646.jpg" width="60%" />
 </p>
 
 ## 👋 About Me:
