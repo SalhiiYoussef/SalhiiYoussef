@@ -26,19 +26,22 @@
 
 ## 💻 Technologies
 
-| Category                    | Technologies                                            |
-|-----------------------------|---------------------------------------------------------|
-| **Big Data Technologies**   | 🚀 Spark, Airflow, Hadoop, Hive, Hafka, Impala           |
-| **Machine Learning**        | 🧠 Supervised & Unsupervised Learning, NLP, Deep Learning|
-| **Programming Languages**  | 💻 Python, Scala, Bash, Java, R, SQL, PL/SQL             |
-| **Data Science Tools**      | 🛠️ Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Spacy, NLTK, LLM |
-| **Data Visualization**      | 📊 PowerBI, Tableau, SuperSet                            |
-| **Web Development**         | 🌐 Django, FastAPI, Spring Boot, ASP.NET, VueJs          |
-| **Statistics**              | 📈 Time Series Analysis, PCA                             |
-| **Database Management**     | 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB               |
-| **Cloud & Platforms**       | ☁️ Microsoft Azure, GCP                                 |
-| **Data Engineering**        | 🛢️ Git/GitHub, ETL/ELT, Docker, Streamlit, CI/CD        |
-| **Other**                   | 🐧 Linux, Agile Scrum, Figma, Jira                       |
+<p align="center">
+  | Category                    | Technologies                                            |
+  |-----------------------------|---------------------------------------------------------|
+  | **Big Data Technologies**   | 🚀 Spark, Airflow, Hadoop, Hive, Hafka, Impala           |
+  | **Machine Learning**        | 🧠 Supervised & Unsupervised Learning, NLP, Deep Learning|
+  | **Programming Languages**  | 💻 Python, Scala, Bash, Java, R, SQL, PL/SQL             |
+  | **Data Science Tools**      | 🛠️ Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Spacy, NLTK, LLM |
+  | **Data Visualization**      | 📊 PowerBI, Tableau, SuperSet                            |
+  | **Web Development**         | 🌐 Django, FastAPI, Spring Boot, ASP.NET, VueJs          |
+  | **Statistics**              | 📈 Time Series Analysis, PCA                             |
+  | **Database Management**     | 🗃️ MySQL, PostgreSQL, SQL Server, MongoDB               |
+  | **Cloud & Platforms**       | ☁️ Microsoft Azure, GCP                                 |
+  | **Data Engineering**        | 🛢️ Git/GitHub, ETL/ELT, Docker, Streamlit, CI/CD        |
+  | **Other**                   | 🐧 Linux, Agile Scrum, Figma, Jira                       |
+
+</p>
 
 
 ## 🙌 Connect with Me:
