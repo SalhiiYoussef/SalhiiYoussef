@@ -4,7 +4,7 @@
 
 ## 👋 About Me:
 
-- 🚀 Hey there, I'm Youssef, a 23-year-old Data Engineer from Morocco. I thrive in the realm of data engineering / data science, driven by a fervent passion for crafting innovative solutions. Welcome to my tech space! 🌐✨
+- 🚀 Hey there, I'm Youssef, a 23-year-old Data Engineer. I thrive in the realm of data engineering / data science, driven by a fervent passion for crafting innovative solutions. Welcome to my tech space! 🌐✨
 - 💼 Currently working as a Data Engineer Intern at Carrefour Massy.
 - 🎓 I hold a [Data & Software Engineering](https://insea.ac.ma/files/DSE_fiche_description_2022.pdf) degree from INSEA (National Institute of Statistics and Applied Economics).
 
