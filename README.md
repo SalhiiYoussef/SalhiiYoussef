@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.dnb.com/content/dam/english/image-library/Modernization/heroes/abstract/hero-our-analytics-data-point-icons-1600x400.jpg" width="80%" />
+  <img src="https://www.thoughtworks.com/content/dam/thoughtworks/images/photography/banner-image/clients/cs_banner_veterans_affairs_data_mesh_v2.jpg" width="80%" />
 </p>
 
 ## 👋 About Me:
