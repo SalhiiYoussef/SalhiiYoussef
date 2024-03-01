@@ -27,6 +27,7 @@
 ## 💻 Technologies
 
 <p align="center">
+  
   | Category                    | Technologies                                            |
   |-----------------------------|---------------------------------------------------------|
   | **Big Data Technologies**   | 🚀 Spark, Airflow, Hadoop, Hive, Hafka, Impala           |
